@@ -15,7 +15,7 @@ fun printVariables() {
     val array: Array<String> = arrayOf("Teste", "Do")
 
     var ownerFirstName = "ISRAEL";
-    val ownerLastName: String = "VIEIRA"; // VAL é uma constante
+    val ownerLastName: String = "VIEIRA"; // VAL é uma constante só que não pode alterar o tipo.
 
     println("The owner name is: ${ownerFirstName} ${ownerLastName}");
 
