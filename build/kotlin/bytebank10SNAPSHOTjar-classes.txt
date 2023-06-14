@@ -1,1 +1,1 @@
-/Users/israelvieira/Documents/akross/bytebank/build/classes/kotlin/main/MainKt.class
+/Users/israelvieira/Documents/akross/bytebank/build/classes/kotlin/main/MainKt.class:/Users/israelvieira/Documents/akross/bytebank/build/classes/kotlin/main/variables/VariablesKt.class
