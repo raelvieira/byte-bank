@@ -17,7 +17,22 @@ fun printVariables() {
     var ownerFirstName = "ISRAEL";
     val ownerLastName: String = "VIEIRA"; // VAL é uma constante só que não pode alterar o tipo.
 
+    ownerLastName.contentEquals(ownerFirstName);
+
     println("The owner name is: ${ownerFirstName} ${ownerLastName}");
 
     println(array[0]);
+
+
+    when(int) {
+        1 -> {
+
+        }
+        2 -> {}
+        else -> println()
+    }
+
+    for (valor in array) {
+        
+    }
 }
